@@ -3,13 +3,13 @@
 
 ## About me
 
- 💻 At this time studying an MSc in Data Science at [CUNEF](https://www.cunef.edu/).
+ 💻 At this time studying an **MSc in Data Science** at [CUNEF](https://www.cunef.edu/).
 
- ⚡ Skills: Python, R, SQL, Git and Visualization techniques.
+ ⚡ Skills: **Python**, **R**, **SQL**, **Git** and **Visualization techniques**.
 
- 🌱 I’m currently acquiring knowledge about Machine Learning and Deep learning.
+ 🌱 I’m currently acquiring knowledge about **Machine Learning** and **Deep learning**.
 
- 😄 Interested about Finance, New projects and Computer science.
+ 😄 Interested about **Finance**, **New projects** and **Computer science**.
 
 
 ## Contact
