@@ -10,7 +10,13 @@
  🌱 I’m currently acquiring knowledge about **Machine Learning** and **Deep learning**.
 
  😄 Interested about **Finance**, **New projects** and **Computer science**.
-
+ 
+## Stats
+  
+<p>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ComputingVictor&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
+    <img height="140em" src="https://so-stats-kurt-liao.vercel.app/api?user=20613816"/>
+<p>
 
 ## Contact
 
