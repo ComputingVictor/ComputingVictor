@@ -14,8 +14,9 @@
 ## Stats
   
 <p>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ComputingVictor&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
-    <img height="140em" src="https://so-stats-kurt-liao.vercel.app/api?user=20613816"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ComputingVictor&theme=black&show_icons=true" alt="Milaan's Github readme stats">
+    <img height="140px" src="https://stackoverflow-card.vercel.app/?userID=20613816&theme=stackoverflow-light"
+/>
 <p>
 
 ## Contact
