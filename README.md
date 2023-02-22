@@ -5,9 +5,15 @@
 
  💻 At this time studying an **MSc in Data Science** at [CUNEF](https://www.cunef.edu/).
 
- ⚡ Skills: **Python**, **R**, **SQL**, **Git** and **Visualization techniques**.
-
- 🌱 I’m currently acquiring knowledge about **Machine Learning** and **Deep learning**.
+ ⚡ Skills: 
+ - **Structured query language** (SQL, MongoDB)
+ - **Data Analysis Fundamentals**
+ - **Deep & Machine Learning** (TensorFlow, SciPy, Scikit-Learn, Keras, Pandas...)
+ - **Time Series Prediction Techniques** (NumPy, statsmodels, Matplotlib, Sktime, Prophet, Darts...)
+ - **Visualization & Reporting Techniques** (Power BI, Tableau, Pandas, Pyvis, Seaborn...)
+ - **Extraction, Transformation and Loading** (PySpark, SQL, R, Python)
+ - **Unstructured Information Management** (NLPs, SkLearn, NLTK, Pandas, NumPy...)
+ - **Git**
 
  😄 Interested about **Finance**, **New projects** and **Computer science**.
  
