@@ -3,9 +3,12 @@
 
 ## About me
 
+ 🏆 **Winner team of the “Allianz Data Talent Program” Datathon** 
+
  💻 At this time studying an **MSc in Data Science** at [CUNEF](https://www.cunef.edu/).
 
- ⚡ Skills: 
+
+ ⚡ **Skills**: 
  - **Structured query language** (SQL, MongoDB)
  - **Data Analysis Fundamentals**
  - **Deep & Machine Learning** (TensorFlow, SciPy, Scikit-Learn, Keras, Pandas...)
