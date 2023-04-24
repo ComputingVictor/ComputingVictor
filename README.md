@@ -3,9 +3,9 @@
 
 ## About me
 
- 🏆 **Winner team of the “Allianz Data Talent Program” Datathon** 
+ 💻 Data Scientist at Allianz Spain and finishing the **MSc in Data Science** at [CUNEF](https://www.cunef.edu/).
 
- 💻 At this time studying an **MSc in Data Science** at [CUNEF](https://www.cunef.edu/).
+ 🏆 **Winner team of the “Allianz Data Talent Program” Datathon** 
 
 
  ⚡ **Skills**: 
