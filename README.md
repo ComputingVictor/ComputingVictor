@@ -25,7 +25,7 @@
 ## Stats
   
 <p>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ComputingVictor&theme=black&show_icons=true" alt="Milaan's Github readme stats">
+ <img height="140px" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?computingvictor" alt="Computingvictor Kaggle Summary Card">
     <img height="140px" src="https://stackoverflow-card.vercel.app/?userID=20613816&theme=stackoverflow-light"
 />
 <p>
